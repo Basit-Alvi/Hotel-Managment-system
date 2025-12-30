@@ -117,6 +117,7 @@ int main() {
             case 4: viewBooking(); break;
             case 5: cout << "Thank you!\n"; break;
             default: cout << "Invalid choice.\n";
+
         }
     } while(choice != 5);
 
