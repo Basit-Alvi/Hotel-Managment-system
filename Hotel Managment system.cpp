@@ -1,7 +1,7 @@
 #include<iostream>
  
 using namespace std;
-
+/*Structure */
 struct Reservation {
     int roomNo;
     string guestName;
