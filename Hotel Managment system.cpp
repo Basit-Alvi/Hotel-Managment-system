@@ -9,7 +9,7 @@ struct Reservation {
     string checkOut;
     bool isBooked;
 };
-
+/*GLOBAL VARIABLE*/
 Reservation room[30];
 int totalroom = 30;  
 
