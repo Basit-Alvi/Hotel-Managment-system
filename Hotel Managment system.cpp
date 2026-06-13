@@ -13,7 +13,7 @@ struct Reservation {
 Reservation room[30];
 int totalroom = 30;  
 
-
+//function
 void bookRoom() {
 
     int i;   
